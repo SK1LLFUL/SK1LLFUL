@@ -1,8 +1,8 @@
 # SK1LL
 
-I work with Python, TypeScript, PostgreSQL, and Redis!
+I work with Python, TypeScript, PostgreSQL
 
-Focused on backend systems, bots, and clean architecture!
+Focused on backend systems, bots, and clean frontend!
 
 ---
 
