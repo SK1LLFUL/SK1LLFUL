@@ -6,4 +6,4 @@ Focused on backend systems, bots, and clean frontend!
 
 ---
 
-> Building systems that just work.
+> Engineering with intent, building with Sk1LL
