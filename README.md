@@ -9,8 +9,8 @@
 
 ### 🛠️ Tech Stack
 
-- Python 🐍
-- Flutter 💙
+- Python 
+- Flutter 
 
 ---
 
@@ -20,15 +20,9 @@
 
 ---
 
-<!-- GitHub Stats Card (Optional, uncomment if you want it) -->
-<!--
+ GitHub Stats Card (Optional, uncomment if you want it)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SK1LLFUL&show_icons=true&theme=radical" alt="SK1LLFUL's GitHub Stats" />
 </p>
--->
 
 ---
-
-<p align="center">
-  <i>Engineering with intent Building with SK1LL <br></i>
-</p>
