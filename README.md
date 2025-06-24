@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#0099FF;">SK1LLFUL</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#0099FF;">HARSH</span> 👋</h1>
 
 <p align="center">
   <b>Developer & Student</b> <br>
